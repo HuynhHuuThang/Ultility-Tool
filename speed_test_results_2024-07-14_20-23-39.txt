@@ -1,0 +1,4 @@
+Download Speed: 77929549.74798132 bytes/s
+Upload Speed: 65287617.91389587 bytes/s
+Ping: 13.974 ms
+Server: speedtest3.vtn.com.vn:8080 (Ho Chi Minh)
