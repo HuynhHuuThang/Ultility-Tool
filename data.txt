@@ -1,3 +1,0 @@
-Download speed: 41.52 Mbps
-Upload speed: 55.38 Mbps
-Ping: 42.30 ms
