@@ -25,7 +25,8 @@ def get_nearby_wifi_stats():
             break
    
 
-def get_connected_wifi_ssid():
+def get_connected_wifi_ssid(location, fname, folder_path):
+    connected_log_filename=fname
     wifi = pywifi.PyWiFi()
     iface = wifi.interfaces()[0]
     print(f"Interface Name: {iface.name()}")
@@ -35,10 +36,38 @@ def get_connected_wifi_ssid():
     
     for network in scan_results:
         if network.ssid == connected_ssid and iface.status() == const.IFACE_CONNECTED:
-            with open("wifi_nearby_stats.txt", "a") as file:
+            with open(f"{folder_path}/{fname}", "a") as file:
+                file.write(f"Location: {location}\n")
                 file.write(f"Connected to: {network.ssid}\n")
-                file.write(f"BSSID: {network.bssid}\n")
+                file.write(f"Connected to BSSID: {network.bssid}\n")
                 file.write(f"{network.ssid} Signal Strength: {network.signal}\n")
+                file.write(f"Frequency: {network.freq} MHz\n")
+                file.write("-" * 30 + "\n")
+            # print(f"Connected to: {network.ssid}")
+            # print(f"BSSID: {network.bssid}")
+            # print(f"Signal Strength: {network.signal} dbm")
+            # print(f"Frequency: {network.freq} Mhz")
+            # print("-" * 30)
+            break
+    else:
+        print("No connected WiFi network found.")
+def get_connected_wifi_bssid_subbssid(location, fname, folder_path):
+    connected_log_filename=fname
+
+    wifi = pywifi.PyWiFi()
+    iface = wifi.interfaces()[0]
+    print(f"Interface Name: {iface.name()}")
+    iface.scan()
+    scan_results = iface.scan_results()
+    connected_ssid = iface.network_profiles()[0].ssid
+    
+    for network in scan_results:
+        if network.ssid == connected_ssid and iface.status() == const.IFACE_CONNECTED:
+            with open(f"{folder_path}/{fname}", "a") as file:
+                file.write(f"Location: {location}\n")
+                file.write(f"Connected to: {network.ssid}\n")
+                file.write(f"Connected to BSSID: {network.bssid}\n")
+                file.write(f"{network.bssid} Signal Strength: {network.signal}\n")
                 file.write(f"Frequency: {network.freq} MHz\n")
                 file.write("-" * 30 + "\n")
             # print(f"Connected to: {network.ssid}")
@@ -51,7 +80,15 @@ def get_connected_wifi_ssid():
         print("No connected WiFi network found.")
 
 if __name__ == "__main__":
-    get_connected_wifi_ssid()
+    location_name = input("Enter the location name: ")
+    connected_wifi_log = location_name + '_connected_wifi_stats.txt'
+    sub_bssid_log = location_name + '_connected_sub_bssid_stats.txt'
+    #specify folder path
+    sub_bssid_log_folder_path = './log/connected_ssid_stats/sub_bssid'
+    connected_ssid_folder_path = './log/connected_ssid_stats'
+
+    get_connected_wifi_ssid(location_name, connected_wifi_log, connected_ssid_folder_path)
+    get_connected_wifi_bssid_subbssid(location_name, sub_bssid_log, sub_bssid_log_folder_path)
     get_nearby_wifi_stats()
 
 
