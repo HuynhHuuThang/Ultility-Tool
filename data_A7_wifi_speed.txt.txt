@@ -1,0 +1,4 @@
+Location: A7
+Download speed: 28.54 Mbps
+Upload speed: 69.50 Mbps
+Ping: 73.94 ms

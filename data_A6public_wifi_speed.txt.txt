@@ -1,0 +1,8 @@
+Location: A6public
+Download speed: 23.80 Mbps
+Upload speed: 45.15 Mbps
+Ping: 39.42 ms
+Location: A6public
+Download speed: 32.09 Mbps
+Upload speed: 91.60 Mbps
+Ping: 27.06 ms

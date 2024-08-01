@@ -1,0 +1,4 @@
+Location: A7public
+Download speed: 32.82 Mbps
+Upload speed: 51.35 Mbps
+Ping: 96.73 ms

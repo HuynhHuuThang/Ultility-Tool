@@ -1,0 +1,4 @@
+Location: A5
+Download speed: 29.09 Mbps
+Upload speed: 55.46 Mbps
+Ping: 34.59 ms

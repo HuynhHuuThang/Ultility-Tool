@@ -1,0 +1,4 @@
+Location: A4public
+Download speed: 26.37 Mbps
+Upload speed: 59.49 Mbps
+Ping: 33.91 ms

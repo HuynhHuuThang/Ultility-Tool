@@ -1,0 +1,5 @@
+Location: A9public
+Location: A9public
+Download speed: 25.92 Mbps
+Upload speed: 59.54 Mbps
+Ping: 17.61 ms

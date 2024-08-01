@@ -1,0 +1,4 @@
+Location: A3public
+Download speed: 26.22 Mbps
+Upload speed: 105.47 Mbps
+Ping: 58.41 ms

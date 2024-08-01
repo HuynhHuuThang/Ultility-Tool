@@ -1,0 +1,6 @@
+Location: A4backup
+Connected to: UIT
+Connected to BSSID: 58:c1:7a:39:69:20:
+58:c1:7a:39:69:20: Signal Strength: -86
+Frequency: 2437000 MHz
+------------------------------

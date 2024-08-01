@@ -1,0 +1,12 @@
+Location: A4public
+Connected to: UIT Public
+Connected to BSSID: bc:a9:93:16:1e:c1:
+bc:a9:93:16:1e:c1: Signal Strength: -93
+Frequency: 2412000 MHz
+------------------------------
+Location: A4public
+Connected to: UIT Public
+Connected to BSSID: bc:e6:7c:e7:5a:c1:
+bc:e6:7c:e7:5a:c1: Signal Strength: -89
+Frequency: 2412000 MHz
+------------------------------

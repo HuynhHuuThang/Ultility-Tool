@@ -1,0 +1,4 @@
+Location: A8public
+Download speed: 15.65 Mbps
+Upload speed: 35.62 Mbps
+Ping: 26.60 ms

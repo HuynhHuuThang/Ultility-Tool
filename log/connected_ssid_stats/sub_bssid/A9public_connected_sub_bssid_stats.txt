@@ -1,0 +1,18 @@
+Location: A9public
+Connected to: UIT
+Connected to BSSID: bc:e6:7c:e7:48:00:
+bc:e6:7c:e7:48:00: Signal Strength: -89
+Frequency: 5300000 MHz
+------------------------------
+Location: A9public
+Connected to: UIT Public
+Connected to BSSID: bc:a9:93:a1:1a:61:
+bc:a9:93:a1:1a:61: Signal Strength: -92
+Frequency: 5320000 MHz
+------------------------------
+Location: A9public
+Connected to: UIT Public
+Connected to BSSID: bc:a9:93:a1:1a:61:
+bc:a9:93:a1:1a:61: Signal Strength: -92
+Frequency: 5320000 MHz
+------------------------------

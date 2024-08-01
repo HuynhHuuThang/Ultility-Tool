@@ -1,0 +1,4 @@
+Location: A5public
+Download speed: 25.93 Mbps
+Upload speed: 66.14 Mbps
+Ping: 37.60 ms

@@ -1,0 +1,12 @@
+Location: A9
+Connected to: UIT
+Connected to BSSID: bc:a9:93:16:21:60:
+UIT Signal Strength: -88
+Frequency: 2412000 MHz
+------------------------------
+Location: A9
+Connected to: UIT
+Connected to BSSID: dc:38:e1:85:77:42:
+UIT Signal Strength: -76
+Frequency: 2437000 MHz
+------------------------------

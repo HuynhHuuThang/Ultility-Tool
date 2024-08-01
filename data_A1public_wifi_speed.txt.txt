@@ -1,0 +1,4 @@
+Location: A1public
+Download speed: 26.95 Mbps
+Upload speed: 44.33 Mbps
+Ping: 33.17 ms

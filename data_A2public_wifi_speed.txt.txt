@@ -1,0 +1,4 @@
+Location: A2public
+Download speed: 26.27 Mbps
+Upload speed: 59.77 Mbps
+Ping: 47.08 ms

@@ -1,0 +1,4 @@
+Location: A9
+Download speed: 28.56 Mbps
+Upload speed: 55.80 Mbps
+Ping: 81.98 ms

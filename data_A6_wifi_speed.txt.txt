@@ -1,0 +1,4 @@
+Location: A6
+Download speed: 22.42 Mbps
+Upload speed: 42.09 Mbps
+Ping: 60.23 ms

@@ -1,0 +1,1660 @@
+SSID: UIT
+BSSID: 58:c1:7a:eb:b8:c0:
+UIT Signal Strength: -90
+Frequency: 5180000 MHz
+------------------------------
+SSID: UIT
+BSSID: 00:2a:10:46:72:2e:
+UIT Signal Strength: -84
+Frequency: 5260000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:a0:fb:20:
+UIT Signal Strength: -87
+Frequency: 2462000 MHz
+------------------------------
+SSID: UIT
+BSSID: 90:3a:72:03:78:68:
+UIT Signal Strength: -80
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT
+BSSID: 90:3a:72:03:78:6c:
+UIT Signal Strength: -85
+Frequency: 5745000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:61:ad:50:
+UIT Signal Strength: -71
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT
+BSSID: 00:2a:10:46:72:21:
+UIT Signal Strength: -82
+Frequency: 2412000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:16:25:c0:
+UIT Signal Strength: -81
+Frequency: 5500000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:16:29:60:
+UIT Signal Strength: -72
+Frequency: 5560000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:61:bd:30:
+UIT Signal Strength: -49
+Frequency: 5500000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:61:b0:b0:
+UIT Signal Strength: -56
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:16:20:00:
+UIT Signal Strength: -70
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:16:1c:60:
+UIT Signal Strength: -72
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:16:21:50:
+UIT Signal Strength: -86
+Frequency: 2412000 MHz
+------------------------------
+SSID: UIT Public
+BSSID: 84:3d:c6:f9:71:f2:
+UIT Public Signal Strength: -84
+Frequency: 2462000 MHz
+------------------------------
+SSID: UIT Public
+BSSID: bc:a9:93:a0:fb:21:
+UIT Public Signal Strength: -89
+Frequency: 2462000 MHz
+------------------------------
+SSID: UIT Public
+BSSID: 58:c1:7a:eb:b8:c1:
+UIT Public Signal Strength: -91
+Frequency: 5180000 MHz
+------------------------------
+SSID: UIT Public
+BSSID: 00:2a:10:46:72:2d:
+UIT Public Signal Strength: -83
+Frequency: 5260000 MHz
+------------------------------
+SSID: UIT Public
+BSSID: 00:2a:10:46:72:22:
+UIT Public Signal Strength: -83
+Frequency: 2412000 MHz
+------------------------------
+SSID: UIT Public
+BSSID: bc:a9:93:61:ad:51:
+UIT Public Signal Strength: -84
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT Public
+BSSID: bc:a9:93:16:25:c1:
+UIT Public Signal Strength: -81
+Frequency: 5500000 MHz
+------------------------------
+SSID: UIT Public
+BSSID: bc:a9:93:16:29:61:
+UIT Public Signal Strength: -72
+Frequency: 5560000 MHz
+------------------------------
+SSID: UIT Public
+BSSID: bc:a9:93:61:bd:31:
+UIT Public Signal Strength: -44
+Frequency: 5500000 MHz
+------------------------------
+SSID: UIT Public
+BSSID: bc:a9:93:16:20:01:
+UIT Public Signal Strength: -71
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT Public
+BSSID: bc:a9:93:61:b0:b1:
+UIT Public Signal Strength: -55
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT Public
+BSSID: bc:a9:93:16:1c:61:
+UIT Public Signal Strength: -68
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT Public
+BSSID: bc:a9:93:16:21:51:
+UIT Public Signal Strength: -84
+Frequency: 2412000 MHz
+------------------------------
+SSID: DIRECT-87-HP M404dw LJ
+BSSID: e2:70:ea:fb:fd:87:
+DIRECT-87-HP M404dw LJ Signal Strength: -84
+Frequency: 2437000 MHz
+------------------------------
+SSID: CTSV
+BSSID: 64:64:4a:0e:18:b0:
+CTSV Signal Strength: -80
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT
+BSSID: 58:c1:7a:eb:b8:c0:
+UIT Signal Strength: -90
+Frequency: 5180000 MHz
+------------------------------
+SSID: UIT
+BSSID: 00:2a:10:46:72:2e:
+UIT Signal Strength: -84
+Frequency: 5260000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:a0:fb:20:
+UIT Signal Strength: -87
+Frequency: 2462000 MHz
+------------------------------
+SSID: UIT
+BSSID: 90:3a:72:03:78:68:
+UIT Signal Strength: -80
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT
+BSSID: 90:3a:72:03:78:6c:
+UIT Signal Strength: -85
+Frequency: 5745000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:61:ad:50:
+UIT Signal Strength: -71
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT
+BSSID: 00:2a:10:46:72:21:
+UIT Signal Strength: -82
+Frequency: 2412000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:16:25:c0:
+UIT Signal Strength: -81
+Frequency: 5500000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:16:29:60:
+UIT Signal Strength: -72
+Frequency: 5560000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:61:bd:30:
+UIT Signal Strength: -49
+Frequency: 5500000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:61:b0:b0:
+UIT Signal Strength: -56
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:16:20:00:
+UIT Signal Strength: -70
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:16:1c:60:
+UIT Signal Strength: -72
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:16:21:50:
+UIT Signal Strength: -86
+Frequency: 2412000 MHz
+------------------------------
+SSID: 
+BSSID: 70:70:8b:83:5c:a0:
+ Signal Strength: -90
+Frequency: 2412000 MHz
+------------------------------
+SSID: 
+BSSID: 00:2a:10:46:72:2f:
+ Signal Strength: -93
+Frequency: 5260000 MHz
+------------------------------
+SSID: 
+BSSID: 00:2a:10:46:72:20:
+ Signal Strength: -71
+Frequency: 2412000 MHz
+------------------------------
+SSID: 
+BSSID: bc:a9:93:61:ad:52:
+ Signal Strength: -85
+Frequency: 2437000 MHz
+------------------------------
+SSID: 
+BSSID: bc:a9:93:16:1c:62:
+ Signal Strength: -72
+Frequency: 2437000 MHz
+------------------------------
+SSID: 
+BSSID: bc:a9:93:16:21:52:
+ Signal Strength: -81
+Frequency: 2412000 MHz
+------------------------------
+SSID: 
+BSSID: bc:a9:93:16:20:02:
+ Signal Strength: -74
+Frequency: 2437000 MHz
+------------------------------
+SSID: 
+BSSID: bc:a9:93:61:b0:b2:
+ Signal Strength: -57
+Frequency: 2437000 MHz
+------------------------------
+SSID: A203
+BSSID: c8:3a:35:4a:a4:c0:
+A203 Signal Strength: -80
+Frequency: 2422000 MHz
+------------------------------
+SSID: A120
+BSSID: 14:cc:20:7f:4c:b2:
+A120 Signal Strength: -89
+Frequency: 2452000 MHz
+------------------------------
+SSID: UIT public
+BSSID: 90:3a:72:43:78:68:
+UIT public Signal Strength: -79
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT public
+BSSID: 90:3a:72:43:78:6c:
+UIT public Signal Strength: -85
+Frequency: 5745000 MHz
+------------------------------
+SSID: DIRECT-5F-HP M404dw LJ
+BSSID: 3a:ca:84:60:bf:5f:
+DIRECT-5F-HP M404dw LJ Signal Strength: -79
+Frequency: 2437000 MHz
+------------------------------
+SSID: QHDN
+BSSID: 54:b8:0a:9c:8b:cc:
+QHDN Signal Strength: -87
+Frequency: 2412000 MHz
+------------------------------
+SSID: Aaa
+BSSID: 1a:0a:3a:c5:c6:dd:
+Aaa Signal Strength: -79
+Frequency: 2462000 MHz
+------------------------------
+SSID: ð±ð¶âð«ï¸
+BSSID: a2:20:74:6a:94:04:
+ð±ð¶âð«ï¸ Signal Strength: -81
+Frequency: 2462000 MHz
+------------------------------
+SSID: Sáº§u RiÃªng ð¤ð¤ð¤
+BSSID: ce:de:54:0b:86:5c:
+Sáº§u RiÃªng ð¤ð¤ð¤ Signal Strength: -76
+Frequency: 2462000 MHz
+------------------------------
+SSID: TOTOLINK_N200RE
+BSSID: 78:44:76:ca:aa:d8:
+TOTOLINK_N200RE Signal Strength: -57
+Frequency: 2412000 MHz
+------------------------------
+SSID: UIT
+BSSID: 84:3d:c6:f9:71:f1:
+UIT Signal Strength: -86
+Frequency: 2462000 MHz
+------------------------------
+SSID: UIT
+BSSID: 58:c1:7a:eb:b8:c0:
+UIT Signal Strength: -90
+Frequency: 5180000 MHz
+------------------------------
+SSID: UIT
+BSSID: 00:2a:10:46:72:2e:
+UIT Signal Strength: -90
+Frequency: 5260000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:a0:fb:20:
+UIT Signal Strength: -86
+Frequency: 2462000 MHz
+------------------------------
+SSID: UIT
+BSSID: 90:3a:72:03:78:68:
+UIT Signal Strength: -80
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT
+BSSID: 90:3a:72:03:78:6c:
+UIT Signal Strength: -85
+Frequency: 5745000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:61:ad:50:
+UIT Signal Strength: -71
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT
+BSSID: 00:2a:10:46:72:21:
+UIT Signal Strength: -85
+Frequency: 2412000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:16:25:c0:
+UIT Signal Strength: -83
+Frequency: 5500000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:16:29:60:
+UIT Signal Strength: -69
+Frequency: 5560000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:61:bd:30:
+UIT Signal Strength: -48
+Frequency: 5500000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:61:b0:b0:
+UIT Signal Strength: -62
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:16:20:00:
+UIT Signal Strength: -71
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:16:1c:60:
+UIT Signal Strength: -71
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:16:21:50:
+UIT Signal Strength: -84
+Frequency: 2412000 MHz
+------------------------------
+SSID: UIT
+BSSID: 84:3d:c6:f9:71:f1:
+UIT Signal Strength: -86
+Frequency: 2462000 MHz
+------------------------------
+SSID: UIT
+BSSID: 58:c1:7a:eb:b8:c0:
+UIT Signal Strength: -90
+Frequency: 5180000 MHz
+------------------------------
+SSID: UIT
+BSSID: 00:2a:10:46:72:2e:
+UIT Signal Strength: -90
+Frequency: 5260000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:a0:fb:20:
+UIT Signal Strength: -86
+Frequency: 2462000 MHz
+------------------------------
+SSID: UIT
+BSSID: 90:3a:72:03:78:68:
+UIT Signal Strength: -80
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT
+BSSID: 90:3a:72:03:78:6c:
+UIT Signal Strength: -85
+Frequency: 5745000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:61:ad:50:
+UIT Signal Strength: -71
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT
+BSSID: 00:2a:10:46:72:21:
+UIT Signal Strength: -85
+Frequency: 2412000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:16:25:c0:
+UIT Signal Strength: -83
+Frequency: 5500000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:16:29:60:
+UIT Signal Strength: -69
+Frequency: 5560000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:61:bd:30:
+UIT Signal Strength: -48
+Frequency: 5500000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:61:b0:b0:
+UIT Signal Strength: -62
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:16:20:00:
+UIT Signal Strength: -71
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:16:1c:60:
+UIT Signal Strength: -71
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:16:21:50:
+UIT Signal Strength: -84
+Frequency: 2412000 MHz
+------------------------------
+SSID: UIT Public
+BSSID: 84:3d:c6:f9:71:f2:
+UIT Public Signal Strength: -86
+Frequency: 2462000 MHz
+------------------------------
+SSID: UIT Public
+BSSID: bc:a9:93:a0:fb:21:
+UIT Public Signal Strength: -87
+Frequency: 2462000 MHz
+------------------------------
+SSID: UIT Public
+BSSID: 58:c1:7a:eb:b8:c1:
+UIT Public Signal Strength: -91
+Frequency: 5180000 MHz
+------------------------------
+SSID: UIT Public
+BSSID: 00:2a:10:46:72:2d:
+UIT Public Signal Strength: -80
+Frequency: 5260000 MHz
+------------------------------
+SSID: UIT Public
+BSSID: 00:2a:10:46:72:22:
+UIT Public Signal Strength: -87
+Frequency: 2412000 MHz
+------------------------------
+SSID: UIT Public
+BSSID: bc:a9:93:61:ad:51:
+UIT Public Signal Strength: -88
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT Public
+BSSID: bc:a9:93:16:25:c1:
+UIT Public Signal Strength: -83
+Frequency: 5500000 MHz
+------------------------------
+SSID: UIT Public
+BSSID: bc:a9:93:16:29:61:
+UIT Public Signal Strength: -69
+Frequency: 5560000 MHz
+------------------------------
+SSID: UIT Public
+BSSID: bc:a9:93:61:bd:31:
+UIT Public Signal Strength: -47
+Frequency: 5500000 MHz
+------------------------------
+SSID: UIT Public
+BSSID: bc:a9:93:16:20:01:
+UIT Public Signal Strength: -75
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT Public
+BSSID: bc:a9:93:61:b0:b1:
+UIT Public Signal Strength: -62
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT Public
+BSSID: bc:a9:93:16:1c:61:
+UIT Public Signal Strength: -70
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT Public
+BSSID: bc:a9:93:16:21:51:
+UIT Public Signal Strength: -84
+Frequency: 2412000 MHz
+------------------------------
+SSID: DIRECT-87-HP M404dw LJ
+BSSID: e2:70:ea:fb:fd:87:
+DIRECT-87-HP M404dw LJ Signal Strength: -79
+Frequency: 2437000 MHz
+------------------------------
+SSID: CTSV
+BSSID: 64:64:4a:0e:18:b0:
+CTSV Signal Strength: -81
+Frequency: 2437000 MHz
+------------------------------
+SSID: 
+BSSID: 70:70:8b:83:5c:a0:
+ Signal Strength: -90
+Frequency: 2412000 MHz
+------------------------------
+SSID: 
+BSSID: 00:2a:10:46:72:2f:
+ Signal Strength: -92
+Frequency: 5260000 MHz
+------------------------------
+SSID: 
+BSSID: 00:2a:10:46:72:20:
+ Signal Strength: -85
+Frequency: 2412000 MHz
+------------------------------
+SSID: 
+BSSID: bc:a9:93:61:ad:52:
+ Signal Strength: -87
+Frequency: 2437000 MHz
+------------------------------
+SSID: 
+BSSID: bc:a9:93:16:1c:62:
+ Signal Strength: -70
+Frequency: 2437000 MHz
+------------------------------
+SSID: 
+BSSID: bc:a9:93:16:21:52:
+ Signal Strength: -85
+Frequency: 2412000 MHz
+------------------------------
+SSID: 
+BSSID: bc:a9:93:16:20:02:
+ Signal Strength: -70
+Frequency: 2437000 MHz
+------------------------------
+SSID: 
+BSSID: bc:a9:93:61:b0:b2:
+ Signal Strength: -63
+Frequency: 2437000 MHz
+------------------------------
+SSID: A203
+BSSID: c8:3a:35:4a:a4:c0:
+A203 Signal Strength: -80
+Frequency: 2422000 MHz
+------------------------------
+SSID: A120
+BSSID: 14:cc:20:7f:4c:b2:
+A120 Signal Strength: -89
+Frequency: 2452000 MHz
+------------------------------
+SSID: UIT public
+BSSID: 90:3a:72:43:78:68:
+UIT public Signal Strength: -80
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT public
+BSSID: 90:3a:72:43:78:6c:
+UIT public Signal Strength: -85
+Frequency: 5745000 MHz
+------------------------------
+SSID: DIRECT-5F-HP M404dw LJ
+BSSID: 3a:ca:84:60:bf:5f:
+DIRECT-5F-HP M404dw LJ Signal Strength: -71
+Frequency: 2437000 MHz
+------------------------------
+SSID: QHDN
+BSSID: 54:b8:0a:9c:8b:cc:
+QHDN Signal Strength: -87
+Frequency: 2412000 MHz
+------------------------------
+SSID: Aaa
+BSSID: 1a:0a:3a:c5:c6:dd:
+Aaa Signal Strength: -83
+Frequency: 2462000 MHz
+------------------------------
+SSID: ð±ð¶âð«ï¸
+BSSID: a2:20:74:6a:94:04:
+ð±ð¶âð«ï¸ Signal Strength: -75
+Frequency: 2462000 MHz
+------------------------------
+SSID: Sáº§u RiÃªng ð¤ð¤ð¤
+BSSID: ce:de:54:0b:86:5c:
+Sáº§u RiÃªng ð¤ð¤ð¤ Signal Strength: -79
+Frequency: 2462000 MHz
+------------------------------
+SSID: TOTOLINK_N200RE
+BSSID: 78:44:76:ca:aa:d8:
+TOTOLINK_N200RE Signal Strength: -61
+Frequency: 2412000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:a0:fb:20:
+UIT Signal Strength: -88
+Frequency: 2462000 MHz
+------------------------------
+SSID: UIT
+BSSID: 00:2a:10:46:72:2e:
+UIT Signal Strength: -92
+Frequency: 5260000 MHz
+------------------------------
+SSID: UIT
+BSSID: 90:3a:72:03:78:68:
+UIT Signal Strength: -79
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:61:ad:50:
+UIT Signal Strength: -81
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT
+BSSID: 00:2a:10:46:72:21:
+UIT Signal Strength: -85
+Frequency: 2412000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:16:25:c0:
+UIT Signal Strength: -77
+Frequency: 5500000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:16:29:60:
+UIT Signal Strength: -72
+Frequency: 5560000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:61:bd:30:
+UIT Signal Strength: -53
+Frequency: 5500000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:61:b0:b0:
+UIT Signal Strength: -46
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:16:20:00:
+UIT Signal Strength: -70
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:16:1c:60:
+UIT Signal Strength: -79
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:16:21:50:
+UIT Signal Strength: -82
+Frequency: 2412000 MHz
+------------------------------
+SSID: 
+BSSID: 58:c1:7a:eb:a9:22:
+ Signal Strength: -83
+Frequency: 2462000 MHz
+------------------------------
+SSID: 
+BSSID: 00:2a:10:46:72:2f:
+ Signal Strength: -92
+Frequency: 5260000 MHz
+------------------------------
+SSID: 
+BSSID: 00:2a:10:46:72:20:
+ Signal Strength: -88
+Frequency: 2412000 MHz
+------------------------------
+SSID: 
+BSSID: bc:a9:93:61:ad:52:
+ Signal Strength: -81
+Frequency: 2437000 MHz
+------------------------------
+SSID: 
+BSSID: bc:a9:93:16:1c:62:
+ Signal Strength: -79
+Frequency: 2437000 MHz
+------------------------------
+SSID: 
+BSSID: bc:a9:93:16:21:52:
+ Signal Strength: -79
+Frequency: 2412000 MHz
+------------------------------
+SSID: 
+BSSID: bc:a9:93:16:20:02:
+ Signal Strength: -70
+Frequency: 2437000 MHz
+------------------------------
+SSID: 
+BSSID: bc:a9:93:61:b0:b2:
+ Signal Strength: -46
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT Public
+BSSID: bc:a9:93:a0:fb:21:
+UIT Public Signal Strength: -84
+Frequency: 2462000 MHz
+------------------------------
+SSID: UIT Public
+BSSID: 00:2a:10:46:72:2d:
+UIT Public Signal Strength: -91
+Frequency: 5260000 MHz
+------------------------------
+SSID: UIT Public
+BSSID: 00:2a:10:46:72:22:
+UIT Public Signal Strength: -86
+Frequency: 2412000 MHz
+------------------------------
+SSID: UIT Public
+BSSID: bc:a9:93:61:ad:51:
+UIT Public Signal Strength: -82
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT Public
+BSSID: bc:a9:93:16:25:c1:
+UIT Public Signal Strength: -78
+Frequency: 5500000 MHz
+------------------------------
+SSID: UIT Public
+BSSID: bc:a9:93:16:29:61:
+UIT Public Signal Strength: -72
+Frequency: 5560000 MHz
+------------------------------
+SSID: UIT Public
+BSSID: bc:a9:93:61:bd:31:
+UIT Public Signal Strength: -38
+Frequency: 5500000 MHz
+------------------------------
+SSID: UIT Public
+BSSID: bc:a9:93:16:20:01:
+UIT Public Signal Strength: -69
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT Public
+BSSID: bc:a9:93:61:b0:b1:
+UIT Public Signal Strength: -45
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT Public
+BSSID: bc:a9:93:16:1c:61:
+UIT Public Signal Strength: -82
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT Public
+BSSID: bc:a9:93:16:21:51:
+UIT Public Signal Strength: -82
+Frequency: 2412000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:a0:fb:20:
+UIT Signal Strength: -88
+Frequency: 2462000 MHz
+------------------------------
+SSID: UIT
+BSSID: 00:2a:10:46:72:2e:
+UIT Signal Strength: -92
+Frequency: 5260000 MHz
+------------------------------
+SSID: UIT
+BSSID: 90:3a:72:03:78:68:
+UIT Signal Strength: -79
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:61:ad:50:
+UIT Signal Strength: -81
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT
+BSSID: 00:2a:10:46:72:21:
+UIT Signal Strength: -85
+Frequency: 2412000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:16:25:c0:
+UIT Signal Strength: -77
+Frequency: 5500000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:16:29:60:
+UIT Signal Strength: -72
+Frequency: 5560000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:61:bd:30:
+UIT Signal Strength: -53
+Frequency: 5500000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:61:b0:b0:
+UIT Signal Strength: -46
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:16:20:00:
+UIT Signal Strength: -70
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:16:1c:60:
+UIT Signal Strength: -79
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:16:21:50:
+UIT Signal Strength: -82
+Frequency: 2412000 MHz
+------------------------------
+SSID: CTSV
+BSSID: 64:64:4a:0e:18:b0:
+CTSV Signal Strength: -86
+Frequency: 2437000 MHz
+------------------------------
+SSID: A120
+BSSID: 14:cc:20:7f:4c:b2:
+A120 Signal Strength: -81
+Frequency: 2452000 MHz
+------------------------------
+SSID: UIT public
+BSSID: 90:3a:72:43:78:68:
+UIT public Signal Strength: -78
+Frequency: 2437000 MHz
+------------------------------
+SSID: DIRECT-5F-HP M404dw LJ
+BSSID: 3a:ca:84:60:bf:5f:
+DIRECT-5F-HP M404dw LJ Signal Strength: -74
+Frequency: 2437000 MHz
+------------------------------
+SSID: Aaa
+BSSID: 1a:0a:3a:c5:c6:dd:
+Aaa Signal Strength: -77
+Frequency: 2462000 MHz
+------------------------------
+SSID: ð±ð¶âð«ï¸
+BSSID: a2:20:74:6a:94:04:
+ð±ð¶âð«ï¸ Signal Strength: -69
+Frequency: 2462000 MHz
+------------------------------
+SSID: Sáº§u RiÃªng ð¤ð¤ð¤
+BSSID: ce:de:54:0b:86:5c:
+Sáº§u RiÃªng ð¤ð¤ð¤ Signal Strength: -81
+Frequency: 2462000 MHz
+------------------------------
+SSID: TOTOLINK_N200RE
+BSSID: 78:44:76:ca:aa:d8:
+TOTOLINK_N200RE Signal Strength: -68
+Frequency: 2412000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:a0:fb:20:
+UIT Signal Strength: -88
+Frequency: 2462000 MHz
+------------------------------
+SSID: UIT
+BSSID: 00:2a:10:46:72:2e:
+UIT Signal Strength: -91
+Frequency: 5260000 MHz
+------------------------------
+SSID: UIT
+BSSID: 90:3a:72:03:78:68:
+UIT Signal Strength: -81
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:61:ad:50:
+UIT Signal Strength: -84
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT
+BSSID: 00:2a:10:46:72:21:
+UIT Signal Strength: -85
+Frequency: 2412000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:16:25:c0:
+UIT Signal Strength: -81
+Frequency: 5500000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:16:29:60:
+UIT Signal Strength: -78
+Frequency: 5560000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:61:bd:30:
+UIT Signal Strength: -47
+Frequency: 5500000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:61:b0:b0:
+UIT Signal Strength: -63
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:16:20:00:
+UIT Signal Strength: -76
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:16:1c:60:
+UIT Signal Strength: -73
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:16:21:50:
+UIT Signal Strength: -86
+Frequency: 2412000 MHz
+------------------------------
+SSID: 
+BSSID: 58:c1:7a:eb:a9:22:
+ Signal Strength: -83
+Frequency: 2462000 MHz
+------------------------------
+SSID: 
+BSSID: 00:2a:10:46:72:2f:
+ Signal Strength: -92
+Frequency: 5260000 MHz
+------------------------------
+SSID: 
+BSSID: 00:2a:10:46:72:20:
+ Signal Strength: -88
+Frequency: 2412000 MHz
+------------------------------
+SSID: 
+BSSID: bc:a9:93:61:ad:52:
+ Signal Strength: -87
+Frequency: 2437000 MHz
+------------------------------
+SSID: 
+BSSID: bc:a9:93:16:1c:62:
+ Signal Strength: -72
+Frequency: 2437000 MHz
+------------------------------
+SSID: 
+BSSID: bc:a9:93:16:21:52:
+ Signal Strength: -79
+Frequency: 2412000 MHz
+------------------------------
+SSID: 
+BSSID: bc:a9:93:16:20:02:
+ Signal Strength: -77
+Frequency: 2437000 MHz
+------------------------------
+SSID: 
+BSSID: bc:a9:93:61:b0:b2:
+ Signal Strength: -63
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT Public
+BSSID: bc:a9:93:a0:fb:21:
+UIT Public Signal Strength: -84
+Frequency: 2462000 MHz
+------------------------------
+SSID: UIT Public
+BSSID: 00:2a:10:46:72:2d:
+UIT Public Signal Strength: -90
+Frequency: 5260000 MHz
+------------------------------
+SSID: UIT Public
+BSSID: 00:2a:10:46:72:22:
+UIT Public Signal Strength: -86
+Frequency: 2412000 MHz
+------------------------------
+SSID: UIT Public
+BSSID: bc:a9:93:61:ad:51:
+UIT Public Signal Strength: -84
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT Public
+BSSID: bc:a9:93:16:25:c1:
+UIT Public Signal Strength: -81
+Frequency: 5500000 MHz
+------------------------------
+SSID: UIT Public
+BSSID: bc:a9:93:16:29:61:
+UIT Public Signal Strength: -78
+Frequency: 5560000 MHz
+------------------------------
+SSID: UIT Public
+BSSID: bc:a9:93:61:bd:31:
+UIT Public Signal Strength: -47
+Frequency: 5500000 MHz
+------------------------------
+SSID: UIT Public
+BSSID: bc:a9:93:16:20:01:
+UIT Public Signal Strength: -79
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT Public
+BSSID: bc:a9:93:61:b0:b1:
+UIT Public Signal Strength: -62
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT Public
+BSSID: bc:a9:93:16:1c:61:
+UIT Public Signal Strength: -77
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT Public
+BSSID: bc:a9:93:16:21:51:
+UIT Public Signal Strength: -86
+Frequency: 2412000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:a0:fb:20:
+UIT Signal Strength: -88
+Frequency: 2462000 MHz
+------------------------------
+SSID: UIT
+BSSID: 00:2a:10:46:72:2e:
+UIT Signal Strength: -91
+Frequency: 5260000 MHz
+------------------------------
+SSID: UIT
+BSSID: 90:3a:72:03:78:68:
+UIT Signal Strength: -81
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:61:ad:50:
+UIT Signal Strength: -84
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT
+BSSID: 00:2a:10:46:72:21:
+UIT Signal Strength: -85
+Frequency: 2412000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:16:25:c0:
+UIT Signal Strength: -81
+Frequency: 5500000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:16:29:60:
+UIT Signal Strength: -78
+Frequency: 5560000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:61:bd:30:
+UIT Signal Strength: -47
+Frequency: 5500000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:61:b0:b0:
+UIT Signal Strength: -63
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:16:20:00:
+UIT Signal Strength: -76
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:16:1c:60:
+UIT Signal Strength: -73
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:16:21:50:
+UIT Signal Strength: -86
+Frequency: 2412000 MHz
+------------------------------
+SSID: CTSV
+BSSID: 64:64:4a:0e:18:b0:
+CTSV Signal Strength: -82
+Frequency: 2437000 MHz
+------------------------------
+SSID: A120
+BSSID: 14:cc:20:7f:4c:b2:
+A120 Signal Strength: -81
+Frequency: 2452000 MHz
+------------------------------
+SSID: UIT public
+BSSID: 90:3a:72:43:78:68:
+UIT public Signal Strength: -78
+Frequency: 2437000 MHz
+------------------------------
+SSID: DIRECT-5F-HP M404dw LJ
+BSSID: 3a:ca:84:60:bf:5f:
+DIRECT-5F-HP M404dw LJ Signal Strength: -74
+Frequency: 2437000 MHz
+------------------------------
+SSID: Aaa
+BSSID: 1a:0a:3a:c5:c6:dd:
+Aaa Signal Strength: -79
+Frequency: 2462000 MHz
+------------------------------
+SSID: ð±ð¶âð«ï¸
+BSSID: a2:20:74:6a:94:04:
+ð±ð¶âð«ï¸ Signal Strength: -69
+Frequency: 2462000 MHz
+------------------------------
+SSID: Sáº§u RiÃªng ð¤ð¤ð¤
+BSSID: ce:de:54:0b:86:5c:
+Sáº§u RiÃªng ð¤ð¤ð¤ Signal Strength: -77
+Frequency: 2462000 MHz
+------------------------------
+SSID: TOTOLINK_N200RE
+BSSID: 78:44:76:ca:aa:d8:
+TOTOLINK_N200RE Signal Strength: -69
+Frequency: 2412000 MHz
+------------------------------
+SSID: UIT
+BSSID: 58:c1:7a:eb:a9:20:
+UIT Signal Strength: -82
+Frequency: 2462000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:a0:fb:20:
+UIT Signal Strength: -88
+Frequency: 2462000 MHz
+------------------------------
+SSID: UIT
+BSSID: 00:2a:10:46:72:2e:
+UIT Signal Strength: -88
+Frequency: 5260000 MHz
+------------------------------
+SSID: UIT
+BSSID: 90:3a:72:03:78:68:
+UIT Signal Strength: -82
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:61:ad:50:
+UIT Signal Strength: -81
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT
+BSSID: 00:2a:10:46:72:21:
+UIT Signal Strength: -85
+Frequency: 2412000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:16:25:c0:
+UIT Signal Strength: -77
+Frequency: 5500000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:16:29:60:
+UIT Signal Strength: -74
+Frequency: 5560000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:61:bd:30:
+UIT Signal Strength: -43
+Frequency: 5500000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:61:b0:b0:
+UIT Signal Strength: -57
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:16:20:00:
+UIT Signal Strength: -78
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:16:1c:60:
+UIT Signal Strength: -80
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:16:21:50:
+UIT Signal Strength: -82
+Frequency: 2412000 MHz
+------------------------------
+SSID: UIT
+BSSID: 58:c1:7a:eb:a9:20:
+UIT Signal Strength: -82
+Frequency: 2462000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:a0:fb:20:
+UIT Signal Strength: -88
+Frequency: 2462000 MHz
+------------------------------
+SSID: UIT
+BSSID: 00:2a:10:46:72:2e:
+UIT Signal Strength: -88
+Frequency: 5260000 MHz
+------------------------------
+SSID: UIT
+BSSID: 90:3a:72:03:78:68:
+UIT Signal Strength: -82
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:61:ad:50:
+UIT Signal Strength: -81
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT
+BSSID: 00:2a:10:46:72:21:
+UIT Signal Strength: -85
+Frequency: 2412000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:16:25:c0:
+UIT Signal Strength: -77
+Frequency: 5500000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:16:29:60:
+UIT Signal Strength: -74
+Frequency: 5560000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:61:bd:30:
+UIT Signal Strength: -43
+Frequency: 5500000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:61:b0:b0:
+UIT Signal Strength: -57
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:16:20:00:
+UIT Signal Strength: -78
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:16:1c:60:
+UIT Signal Strength: -80
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:16:21:50:
+UIT Signal Strength: -82
+Frequency: 2412000 MHz
+------------------------------
+SSID: 
+BSSID: 58:c1:7a:eb:a9:22:
+ Signal Strength: -83
+Frequency: 2462000 MHz
+------------------------------
+SSID: 
+BSSID: 00:2a:10:46:72:2f:
+ Signal Strength: -88
+Frequency: 5260000 MHz
+------------------------------
+SSID: 
+BSSID: 00:2a:10:46:72:20:
+ Signal Strength: -88
+Frequency: 2412000 MHz
+------------------------------
+SSID: 
+BSSID: bc:a9:93:61:ad:52:
+ Signal Strength: -85
+Frequency: 2437000 MHz
+------------------------------
+SSID: 
+BSSID: bc:a9:93:16:1c:62:
+ Signal Strength: -79
+Frequency: 2437000 MHz
+------------------------------
+SSID: 
+BSSID: bc:a9:93:16:21:52:
+ Signal Strength: -79
+Frequency: 2412000 MHz
+------------------------------
+SSID: 
+BSSID: bc:a9:93:16:20:02:
+ Signal Strength: -75
+Frequency: 2437000 MHz
+------------------------------
+SSID: 
+BSSID: bc:a9:93:61:b0:b2:
+ Signal Strength: -59
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT Public
+BSSID: bc:a9:93:a0:fb:21:
+UIT Public Signal Strength: -84
+Frequency: 2462000 MHz
+------------------------------
+SSID: UIT Public
+BSSID: 00:2a:10:46:72:2d:
+UIT Public Signal Strength: -88
+Frequency: 5260000 MHz
+------------------------------
+SSID: UIT Public
+BSSID: 00:2a:10:46:72:22:
+UIT Public Signal Strength: -86
+Frequency: 2412000 MHz
+------------------------------
+SSID: UIT Public
+BSSID: bc:a9:93:61:ad:51:
+UIT Public Signal Strength: -84
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT Public
+BSSID: bc:a9:93:16:25:c1:
+UIT Public Signal Strength: -77
+Frequency: 5500000 MHz
+------------------------------
+SSID: UIT Public
+BSSID: bc:a9:93:16:29:61:
+UIT Public Signal Strength: -74
+Frequency: 5560000 MHz
+------------------------------
+SSID: UIT Public
+BSSID: bc:a9:93:61:bd:31:
+UIT Public Signal Strength: -39
+Frequency: 5500000 MHz
+------------------------------
+SSID: UIT Public
+BSSID: bc:a9:93:16:20:01:
+UIT Public Signal Strength: -79
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT Public
+BSSID: bc:a9:93:61:b0:b1:
+UIT Public Signal Strength: -58
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT Public
+BSSID: bc:a9:93:16:1c:61:
+UIT Public Signal Strength: -77
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT Public
+BSSID: bc:a9:93:16:21:51:
+UIT Public Signal Strength: -84
+Frequency: 2412000 MHz
+------------------------------
+SSID: CTSV
+BSSID: 64:64:4a:0e:18:b0:
+CTSV Signal Strength: -82
+Frequency: 2437000 MHz
+------------------------------
+SSID: A120
+BSSID: 14:cc:20:7f:4c:b2:
+A120 Signal Strength: -81
+Frequency: 2452000 MHz
+------------------------------
+SSID: UIT public
+BSSID: 90:3a:72:43:78:68:
+UIT public Signal Strength: -84
+Frequency: 2437000 MHz
+------------------------------
+SSID: DIRECT-5F-HP M404dw LJ
+BSSID: 3a:ca:84:60:bf:5f:
+DIRECT-5F-HP M404dw LJ Signal Strength: -77
+Frequency: 2437000 MHz
+------------------------------
+SSID: Aaa
+BSSID: 1a:0a:3a:c5:c6:dd:
+Aaa Signal Strength: -73
+Frequency: 2462000 MHz
+------------------------------
+SSID: ð±ð¶âð«ï¸
+BSSID: a2:20:74:6a:94:04:
+ð±ð¶âð«ï¸ Signal Strength: -69
+Frequency: 2462000 MHz
+------------------------------
+SSID: Sáº§u RiÃªng ð¤ð¤ð¤
+BSSID: ce:de:54:0b:86:5c:
+Sáº§u RiÃªng ð¤ð¤ð¤ Signal Strength: -81
+Frequency: 2462000 MHz
+------------------------------
+SSID: TOTOLINK_N200RE
+BSSID: 78:44:76:ca:aa:d8:
+TOTOLINK_N200RE Signal Strength: -65
+Frequency: 2412000 MHz
+------------------------------
+SSID: UIT
+BSSID: 58:c1:7a:eb:a9:20:
+UIT Signal Strength: -82
+Frequency: 2462000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:a0:fb:20:
+UIT Signal Strength: -88
+Frequency: 2462000 MHz
+------------------------------
+SSID: UIT
+BSSID: 00:2a:10:46:72:2e:
+UIT Signal Strength: -87
+Frequency: 5260000 MHz
+------------------------------
+SSID: UIT
+BSSID: 90:3a:72:03:78:68:
+UIT Signal Strength: -79
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:61:ad:50:
+UIT Signal Strength: -81
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT
+BSSID: 00:2a:10:46:72:21:
+UIT Signal Strength: -85
+Frequency: 2412000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:16:25:c0:
+UIT Signal Strength: -80
+Frequency: 5500000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:16:29:60:
+UIT Signal Strength: -75
+Frequency: 5560000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:61:bd:30:
+UIT Signal Strength: -45
+Frequency: 5500000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:61:b0:b0:
+UIT Signal Strength: -60
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:16:20:00:
+UIT Signal Strength: -77
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:16:1c:60:
+UIT Signal Strength: -79
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:16:21:50:
+UIT Signal Strength: -82
+Frequency: 2412000 MHz
+------------------------------
+SSID: UIT
+BSSID: 58:c1:7a:eb:a9:20:
+UIT Signal Strength: -82
+Frequency: 2462000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:a0:fb:20:
+UIT Signal Strength: -88
+Frequency: 2462000 MHz
+------------------------------
+SSID: UIT
+BSSID: 00:2a:10:46:72:2e:
+UIT Signal Strength: -87
+Frequency: 5260000 MHz
+------------------------------
+SSID: UIT
+BSSID: 90:3a:72:03:78:68:
+UIT Signal Strength: -79
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:61:ad:50:
+UIT Signal Strength: -81
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT
+BSSID: 00:2a:10:46:72:21:
+UIT Signal Strength: -85
+Frequency: 2412000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:16:25:c0:
+UIT Signal Strength: -80
+Frequency: 5500000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:16:29:60:
+UIT Signal Strength: -75
+Frequency: 5560000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:61:bd:30:
+UIT Signal Strength: -45
+Frequency: 5500000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:61:b0:b0:
+UIT Signal Strength: -60
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:16:20:00:
+UIT Signal Strength: -77
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:16:1c:60:
+UIT Signal Strength: -79
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT
+BSSID: bc:a9:93:16:21:50:
+UIT Signal Strength: -82
+Frequency: 2412000 MHz
+------------------------------
+SSID: 
+BSSID: 58:c1:7a:eb:a9:22:
+ Signal Strength: -83
+Frequency: 2462000 MHz
+------------------------------
+SSID: 
+BSSID: 00:2a:10:46:72:2f:
+ Signal Strength: -88
+Frequency: 5260000 MHz
+------------------------------
+SSID: 
+BSSID: 00:2a:10:46:72:20:
+ Signal Strength: -88
+Frequency: 2412000 MHz
+------------------------------
+SSID: 
+BSSID: bc:a9:93:61:ad:52:
+ Signal Strength: -85
+Frequency: 2437000 MHz
+------------------------------
+SSID: 
+BSSID: bc:a9:93:16:1c:62:
+ Signal Strength: -73
+Frequency: 2437000 MHz
+------------------------------
+SSID: 
+BSSID: bc:a9:93:16:21:52:
+ Signal Strength: -79
+Frequency: 2412000 MHz
+------------------------------
+SSID: 
+BSSID: bc:a9:93:16:20:02:
+ Signal Strength: -79
+Frequency: 2437000 MHz
+------------------------------
+SSID: 
+BSSID: bc:a9:93:61:b0:b2:
+ Signal Strength: -60
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT Public
+BSSID: bc:a9:93:a0:fb:21:
+UIT Public Signal Strength: -84
+Frequency: 2462000 MHz
+------------------------------
+SSID: UIT Public
+BSSID: 00:2a:10:46:72:2d:
+UIT Public Signal Strength: -85
+Frequency: 5260000 MHz
+------------------------------
+SSID: UIT Public
+BSSID: 00:2a:10:46:72:22:
+UIT Public Signal Strength: -86
+Frequency: 2412000 MHz
+------------------------------
+SSID: UIT Public
+BSSID: bc:a9:93:61:ad:51:
+UIT Public Signal Strength: -84
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT Public
+BSSID: bc:a9:93:16:25:c1:
+UIT Public Signal Strength: -80
+Frequency: 5500000 MHz
+------------------------------
+SSID: UIT Public
+BSSID: bc:a9:93:16:29:61:
+UIT Public Signal Strength: -75
+Frequency: 5560000 MHz
+------------------------------
+SSID: UIT Public
+BSSID: bc:a9:93:61:bd:31:
+UIT Public Signal Strength: -47
+Frequency: 5500000 MHz
+------------------------------
+SSID: UIT Public
+BSSID: bc:a9:93:16:20:01:
+UIT Public Signal Strength: -74
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT Public
+BSSID: bc:a9:93:61:b0:b1:
+UIT Public Signal Strength: -60
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT Public
+BSSID: bc:a9:93:16:1c:61:
+UIT Public Signal Strength: -74
+Frequency: 2437000 MHz
+------------------------------
+SSID: UIT Public
+BSSID: bc:a9:93:16:21:51:
+UIT Public Signal Strength: -81
+Frequency: 2412000 MHz
+------------------------------
+SSID: CTSV
+BSSID: 64:64:4a:0e:18:b0:
+CTSV Signal Strength: -82
+Frequency: 2437000 MHz
+------------------------------
+SSID: A120
+BSSID: 14:cc:20:7f:4c:b2:
+A120 Signal Strength: -81
+Frequency: 2452000 MHz
+------------------------------
+SSID: UIT public
+BSSID: 90:3a:72:43:78:68:
+UIT public Signal Strength: -79
+Frequency: 2437000 MHz
+------------------------------
+SSID: DIRECT-5F-HP M404dw LJ
+BSSID: 3a:ca:84:60:bf:5f:
+DIRECT-5F-HP M404dw LJ Signal Strength: -77
+Frequency: 2437000 MHz
+------------------------------
+SSID: Aaa
+BSSID: 1a:0a:3a:c5:c6:dd:
+Aaa Signal Strength: -78
+Frequency: 2462000 MHz
+------------------------------
+SSID: ð±ð¶âð«ï¸
+BSSID: a2:20:74:6a:94:04:
+ð±ð¶âð«ï¸ Signal Strength: -69
+Frequency: 2462000 MHz
+------------------------------
+SSID: Sáº§u RiÃªng ð¤ð¤ð¤
+BSSID: ce:de:54:0b:86:5c:
+Sáº§u RiÃªng ð¤ð¤ð¤ Signal Strength: -76
+Frequency: 2462000 MHz
+------------------------------
+SSID: TOTOLINK_N200RE
+BSSID: 78:44:76:ca:aa:d8:
+TOTOLINK_N200RE Signal Strength: -66
+Frequency: 2412000 MHz
+------------------------------

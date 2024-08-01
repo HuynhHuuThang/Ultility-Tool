@@ -1,0 +1,4 @@
+Location: A2
+Download speed: 30.44 Mbps
+Upload speed: 44.57 Mbps
+Ping: 35.09 ms

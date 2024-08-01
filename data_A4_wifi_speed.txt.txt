@@ -1,0 +1,4 @@
+Location: A4
+Download speed: 30.39 Mbps
+Upload speed: 58.31 Mbps
+Ping: 48.02 ms

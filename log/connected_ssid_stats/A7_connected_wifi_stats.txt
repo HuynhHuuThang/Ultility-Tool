@@ -1,0 +1,30 @@
+Location: A7
+Connected to: UIT Public
+Connected to BSSID: 58:c1:7a:cb:b8:a1:
+UIT Public Signal Strength: -91
+Frequency: 5500000 MHz
+------------------------------
+Location: A7
+Connected to: UIT Public
+Connected to BSSID: 58:c1:7a:cb:b8:a1:
+UIT Public Signal Strength: -91
+Frequency: 5500000 MHz
+------------------------------
+Location: A7
+Connected to: UIT Public
+Connected to BSSID: bc:a9:93:16:21:51:
+UIT Public Signal Strength: -85
+Frequency: 2412000 MHz
+------------------------------
+Location: A7
+Connected to: UIT
+Connected to BSSID: 84:3d:c6:f9:6c:61:
+UIT Signal Strength: -85
+Frequency: 2437000 MHz
+------------------------------
+Location: A7
+Connected to: UIT
+Connected to BSSID: 84:3d:c6:f9:6c:61:
+UIT Signal Strength: -88
+Frequency: 2437000 MHz
+------------------------------

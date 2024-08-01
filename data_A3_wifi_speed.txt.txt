@@ -1,0 +1,4 @@
+Location: A3
+Download speed: 17.27 Mbps
+Upload speed: 30.14 Mbps
+Ping: 81.57 ms

@@ -1,0 +1,6 @@
+Location: A4
+Connected to: UIT
+Connected to BSSID: 30:cb:c7:69:48:00:
+30:cb:c7:69:48:00: Signal Strength: -89
+Frequency: 5680000 MHz
+------------------------------

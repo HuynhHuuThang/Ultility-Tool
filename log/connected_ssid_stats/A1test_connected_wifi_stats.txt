@@ -1,0 +1,6 @@
+Location: A1test
+Connected to: UIT
+Connected to BSSID: bc:a9:93:a0:fb:20:
+UIT Signal Strength: -87
+Frequency: 2462000 MHz
+------------------------------

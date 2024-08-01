@@ -1,58 +1,36 @@
-import speedtest
-import datetime
-
+import os
 import matplotlib.pyplot as plt
 
-def run_speed_test():
-    # Create a Speedtest object
-    st = speedtest.Speedtest()
+def get_speed_data_from_files():
+    # Get the list of files in the log directory
+    log_dir = './log/download'
+    files = os.listdir(log_dir)
 
-    # Run the speed test
-    st.get_best_server()
-    st.download()
-    st.upload()
+    # Initialize empty lists for download speeds and file names
+    download_speeds = []
+    file_names = []
 
-    # Get the results
-    results = st.results.dict()
+    # Iterate over the files
+    for file in files:
+        # Read the download speed from each file
+        with open(os.path.join(log_dir, file), 'r') as f:
+            download_speed = float(f.read())
+            download_speeds.append(download_speed)
+            file_names.append(file)
 
-    return results
+    return download_speeds, file_names
 
-def export_speed_test_results(results):
-    # Get the current date and time
-    now = datetime.datetime.now()
+# Get the download speeds and file names
+download_speeds, file_names = get_speed_data_from_files()
 
-    # Create a filename for the log file using the current date and time
-    filename = f"speed_test_results_{now.strftime('%Y-%m-%d_%H-%M-%S')}.txt"
+# Create a bar chart to visualize the download speeds
+plt.bar(file_names, download_speeds)
+plt.ylabel('Download Speed (Mbps)')
+plt.xlabel('File')
+plt.title('Network Performance')
 
-    # Open the log file in write mode
-    with open(filename, 'w') as file:
-        # Write the results to the log file
-        file.write(f"Download Speed: {results['download']} bytes/s\n")
-        file.write(f"Upload Speed: {results['upload']} bytes/s\n")
-        file.write(f"Ping: {results['ping']} ms\n")
-        file.write(f"Server: {results['server']['host']} ({results['server']['name']})\n")
+# Rotate the x-axis labels for better readability
+plt.xticks(rotation=45)
 
-    print(f"Speed test results exported to {filename}")
-
-
-def visualize_speed_test(results):
-    # Extract the download and upload speeds from the results
-    download_speed = results['download'] / 10**6  # Convert to Mbps
-    upload_speed = results['upload'] / 10**6  # Convert to Mbps
-
-    # Create a bar chart to visualize the speeds
-    speeds = [download_speed, upload_speed]
-    labels = ['Download', 'Upload']
-    plt.bar(labels, speeds)
-    plt.ylabel('Speed (Mbps)')
-    plt.title('Network Performance')
-
-    # Display the chart
-    plt.show()
-
-if __name__ == "__main__":
-    # Run the speed test and visualize the results
-    results = run_speed_test()
-    visualize_speed_test(results)
-    # Export the results to a log file
-    export_speed_test_results(results)
+# Display the chart
+plt.show()

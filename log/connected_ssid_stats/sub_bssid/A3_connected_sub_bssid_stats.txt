@@ -1,0 +1,12 @@
+Location: A3
+Connected to: UIT
+Connected to BSSID: 58:c1:7a:eb:a9:20:
+58:c1:7a:eb:a9:20: Signal Strength: -83
+Frequency: 2462000 MHz
+------------------------------
+Location: A3
+Connected to: UIT
+Connected to BSSID: 58:c1:7a:eb:a9:20:
+58:c1:7a:eb:a9:20: Signal Strength: -83
+Frequency: 2462000 MHz
+------------------------------

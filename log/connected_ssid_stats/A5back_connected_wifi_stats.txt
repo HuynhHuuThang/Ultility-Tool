@@ -1,0 +1,6 @@
+Location: A5back
+Connected to: UIT
+Connected to BSSID: bc:a9:93:16:2a:b0:
+UIT Signal Strength: -90
+Frequency: 5320000 MHz
+------------------------------

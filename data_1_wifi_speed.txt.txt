@@ -1,8 +1,0 @@
-Location: 1
-Download speed: 37.27 Mbps
-Upload speed: 47.89 Mbps
-Ping: 31.41 ms
-Location: 1
-Download speed: 38.76 Mbps
-Upload speed: 20.93 Mbps
-Ping: 33.08 ms

@@ -1,0 +1,4 @@
+Location: A8
+Download speed: 10.61 Mbps
+Upload speed: 26.00 Mbps
+Ping: 45.08 ms

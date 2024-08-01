@@ -1,0 +1,4 @@
+Location: A1
+Download speed: 3.12 Mbps
+Upload speed: 10.60 Mbps
+Ping: 52.85 ms

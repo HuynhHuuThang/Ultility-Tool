@@ -1,0 +1,18 @@
+Location: A1public
+Connected to: UIT Public
+Connected to BSSID: 84:3d:c6:f9:71:f2:
+84:3d:c6:f9:71:f2: Signal Strength: -88
+Frequency: 2462000 MHz
+------------------------------
+Location: A1public
+Connected to: UIT Public
+Connected to BSSID: 84:3d:c6:f9:71:f2:
+84:3d:c6:f9:71:f2: Signal Strength: -88
+Frequency: 2462000 MHz
+------------------------------
+Location: A1public
+Connected to: UIT Public
+Connected to BSSID: 84:3d:c6:f9:71:f2:
+84:3d:c6:f9:71:f2: Signal Strength: -88
+Frequency: 2462000 MHz
+------------------------------
